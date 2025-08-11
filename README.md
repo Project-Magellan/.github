@@ -3,15 +3,9 @@ We are a small team making open-source software for various niche genres of soft
 
 Some inspirations for this project include [KDE](https://kde.org/), [GNU](https://www.gnu.org/gnu/thegnuproject.html) and [SynthLauncher Org.](https://github.com/SynthLauncher).
 
-We may go by either **Project Magellan** or **Magellan Project**, named after the Portuguese explorer Ferdinand Magellan (circa 1480 – 1521).
+We may go by either **Project Magellan** or **Magellan Project**, named after the Portuguese explorer Ferdinand Magellan (circa 1480 – 1521). Our little logo is supposed to loosely represent a compass, an object commonly asscociated with exploration and discovery.
 
 - Last updated on August 11th, 2025
 
 ## [Voyager](https://github.com/Project-Magellan/Voyager)
 This is our Minecraft launcher project. It is still a work-in-progress. I mainly started this as a little demo to practice my programming skills but I hope one day it could be a little more than that.
-
-## 
-<p align=center>
-Made with 💝 in New Zealand  •
- Copyright (C) 2025 Project Magellan
-<p/>
