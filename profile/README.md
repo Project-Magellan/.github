@@ -3,7 +3,7 @@ We are a small team making open-source software for various niche genres of soft
 
 Some inspirations for this project include [KDE](https://kde.org/), [GNU](https://www.gnu.org/gnu/thegnuproject.html) and [SynthLauncher Org.](https://github.com/SynthLauncher).
 
-We may go by either **Project Magellan** or **Magellan Project**, named after the Portuguese explorer Ferdinand Magellan (circa 1480 – 1521). Our little logo is supposed to loosely represent a compass, an object commonly associated with exploration and discovery.
+We may go by either **Project Magellan** or **Magellan Project**, named after the Portuguese explorer Ferdinand Magellan (circa 1480 – 1521). Our little logo is supposed to loosely represent a compass, an object and symbol commonly associated with exploration and discovery.
 
 - Last updated on August 11th, 2025
 
