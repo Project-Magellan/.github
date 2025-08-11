@@ -1,12 +1,4 @@
-## Hi there 👋
+## Project Magellan
+We are a small team making open-source software for various niche genres of software such as game launchers and chess engines. Occasionally, we might make programs that cater to a wider range of users but our primary goal is to make software for genres with a very small selection of programs to choose from at all, or at least genres with not much options for free & open-source software. This is mostly a hobby project maintained by [myself](https://github.com/AquaCobalt) and a bunch of close friends so we are not seeking any form of sponsorship or investment. As of the time you are reading this, we have just started and our first goal is to build a Minecraft launcher!
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Last updated on August 11th, 2025
