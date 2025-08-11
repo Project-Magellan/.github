@@ -8,7 +8,7 @@ We may go by either **Project Magellan** or **Magellan Project**, named after th
 - Last updated on August 11th, 2025
 
 ## [Voyager](https://github.com/Project-Magellan/Voyager)
-This is our Minecraft launcher project. It is still a work-in-progress. I mainly started this as a little demo to practice my programming skills but I hope one day it could be a little more than that.
+This is our Minecraft launcher project. It is still a work-in-progress. I mainly started this as a little demo to practice my programming skills but I hope one day it could be a little more than that. I hope to finish the project by mid-2026.
 
 ## 
 <p align=center>
